@@ -232,3 +232,7 @@ $ git log --oneline --decorate --all --graph
 * ac017c5 se crea el archivo privado.txt y la carpeta privada, aparte se ignora con .gitignore
 * 351428c commit inicial
 
+| Nombre               | GitHub                          |
+| -------------------- | ------------------------------- |
+| Santiago Correa     | (https://github.com/SantiagoomC?tab=repositories)     |
+|  Jhonatan Toro | (https://github.com/jtorova5) |
